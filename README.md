@@ -1,7 +1,7 @@
 # XGBoost-for-PCB-Reflow
 PCB Reflow Oven Temperature Prediction
 Project Overview
-This project predicts optimal temperature settings for each zone of a reflow oven based on PCB characteristics. The model helps eliminate time-consuming trial-and-error approaches traditionally used in reflow profiling
+This project predicts optimal temperature settings for each zone of a reflow oven based on PCB characteristics. The model helps eliminate time-consuming trial-and-error approaches traditionally used in reflow profiling.
 
 Key Features
 - Predicts temperatures for all 10 zones of a reflow oven
